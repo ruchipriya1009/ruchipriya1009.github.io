@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.70a48d2b.css",
-    "main.js": "/static/js/main.9c2c5033.js",
+    "main.js": "/static/js/main.364b5412.js",
     "static/media/reliance_digital.png": "/static/media/reliance_digital.2dd7f624b533d7b16ab6.png",
     "static/media/Ruchi_Priya_Kumari_Resume.pdf": "/static/media/Ruchi_Priya_Kumari_Resume.6a15800f553d34eb7f10.pdf",
     "static/media/home.png": "/static/media/home.e5e13ce583e751e3cb88.png",
     "index.html": "/index.html",
     "main.70a48d2b.css.map": "/static/css/main.70a48d2b.css.map",
-    "main.9c2c5033.js.map": "/static/js/main.9c2c5033.js.map"
+    "main.364b5412.js.map": "/static/js/main.364b5412.js.map"
   },
   "entrypoints": [
     "static/css/main.70a48d2b.css",
-    "static/js/main.9c2c5033.js"
+    "static/js/main.364b5412.js"
   ]
 }
